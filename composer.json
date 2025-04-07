@@ -15,7 +15,7 @@
     "require": {
         "php": ">=8.0",
         "amphp/amp": "^2.0.3",
-        "lcobucci/clock": "^1.0",
+        "lcobucci/clock": "^2.0",
         "psr/log": "^1.0 || ^2.0"
     },
     "autoload": {
